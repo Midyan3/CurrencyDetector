@@ -13,7 +13,7 @@ Some early struggles we had with Yolov5 was gathering a good dataset for all the
 
 [Download files for YOLO Detection project from Google Drive](https://drive.google.com/drive/folders/1vgToRy-XqEsTDR8Q_SWc86Rz-3ybA5Os?usp=drive_link)
 
-# [**ISSUE WITH SUBMITTING ON GRADESCOPE**]
+# [**MORE INFO**]
 
 **Model Download**
 
