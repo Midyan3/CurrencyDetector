@@ -1,0 +1,17 @@
+---
+:id: 255064909
+:submitters:
+- :name: Midyan Elghazali
+  :email: midyan.elghazali61@myhunter.cuny.edu
+- :name: Nicholas Grzyb
+  :email: nicholas.grzyb24@myhunter.cuny.edu
+- :name: Jairo Iqbal Gil
+  :email: jairo.iqbalgil58@myhunter.cuny.edu
+- :name: Mohammad Hossain
+  :email: mohammad.hossain47@myhunter.cuny.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2024-05-23 02:52:10.915294000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2024-05-22 19:52:10.915294000 Z
+:status: failed
